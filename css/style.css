@@ -10,9 +10,14 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
+    background-image: url(../images/share.png);
+    background-size: 50px ;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .container {
     max-width: 70%;
     margin: auto;
 }
+
