@@ -1,6 +1,6 @@
 ## Mateusz Grygorowicz
 
-! [currency-converter](https://github.com/Mateusz-95/currency-converter-/blob/main/images/currency-converter%20screen.png?raw=true)
+! [currency-converter](https://raw.githubusercontent.com/Mateusz-95/currency-converter-/main/images/currency-converter%20screen.png)
 
 # Demo 
 
